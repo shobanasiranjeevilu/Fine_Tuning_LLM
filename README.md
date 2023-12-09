@@ -35,6 +35,7 @@
 
 ![image](https://github.com/shobanasiranjeevilu/Fine_Tuning_LLM/assets/114626356/d988aabd-222e-419e-a889-81aaebd87cc9)
 
+<img width="242" alt="image" src="https://github.com/shobanasiranjeevilu/Fine_Tuning_LLM/assets/114626356/ef2e34e0-8e9e-461d-bd1d-73ada8b34527">
 
 
 
