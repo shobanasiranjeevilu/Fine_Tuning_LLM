@@ -1,3 +1,15 @@
+my_project
+|
+| --- Prompt_engineering.ipynb
+| --- fine_tuning_gpt.ipynb
+| --- Inferencing_gpt_4.ipynb
+| --- Inferencing_fine_tuned_model.ipynb
+| --- user_inference.py (FastAPI interface)
+| --- chat_model.py (best performing model)
+
+
+# Methodology
+
 ![image](https://github.com/shobanasiranjeevilu/Fine_Tuning_LLM/assets/114626356/fd295d12-e2c8-4b8c-a872-4b319a1d9959)
 
 
