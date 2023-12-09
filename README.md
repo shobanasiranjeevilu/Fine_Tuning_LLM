@@ -1,11 +1,11 @@
-my_project
-|
-| --- Prompt_engineering.ipynb
-| --- fine_tuning_gpt.ipynb
-| --- Inferencing_gpt_4.ipynb
-| --- Inferencing_fine_tuned_model.ipynb
-| --- user_inference.py (FastAPI interface)
-| --- chat_model.py (best performing model)
+        my_project
+        |
+        | --- Prompt_engineering.ipynb
+        | --- fine_tuning_gpt.ipynb
+        | --- Inferencing_gpt_4.ipynb
+        | --- Inferencing_fine_tuned_model.ipynb
+        | --- user_inference.py (FastAPI interface)
+        | --- chat_model.py (best performing model)
 
 
 # Methodology
