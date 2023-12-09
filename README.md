@@ -1,3 +1,9 @@
+![image](https://github.com/shobanasiranjeevilu/Fine_Tuning_LLM/assets/114626356/fd295d12-e2c8-4b8c-a872-4b319a1d9959)
+
+
+
+
+
 ### Pipeline_gpt_4_model.ipynb
 
     - Performs various prompt engineering techiniques and identifies best prompt and using it inference the model on test data.
