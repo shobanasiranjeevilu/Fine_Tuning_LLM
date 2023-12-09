@@ -26,4 +26,12 @@ def format_for_gpt(cells):
     return json.dumps(formatted_data, separators=(',', ':'))
 
 
+def create_prompt_example(path_to_example,human_grade,human_feedback):
+    
+    notebook = read_notebook(path_to_example)
+    extracted_cells = extract_cells(notebook)
+    parsed_example = format_for_gpt(extracted_cells)
+    human_feedback_example_prompt = "Grade:{}, summarized_feedback:{}".format(human_grade,human_feedback)
+
+    return parsed_example, human_feedback_example_prompt
 

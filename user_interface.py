@@ -4,7 +4,7 @@ import io
 from fastapi import FastAPI, UploadFile, File, Form, HTTPException
 from fastapi.responses import JSONResponse
 import nbformat
-from Submission.chat_model import API
+from chat_model import API
 from utils import read_content, extract_cells, format_for_gpt
 
 
