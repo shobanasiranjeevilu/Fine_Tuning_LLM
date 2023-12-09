@@ -33,8 +33,6 @@
 
 # Evaluation
 
-<img width="740" alt="image" src="https://github.com/shobanasiranjeevilu/Fine_Tuning_LLM/assets/114626356/97496d54-cf17-432a-a701-04d1b8c2c3e6">
-
 ![image](https://github.com/shobanasiranjeevilu/Fine_Tuning_LLM/assets/114626356/d988aabd-222e-419e-a889-81aaebd87cc9)
 
 
