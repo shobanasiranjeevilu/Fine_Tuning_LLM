@@ -1,3 +1,5 @@
+Fine Tuning LLM to understand and evaluate python programming Assigments based on provided instructions.
+
         my_project
         |
         | --- Prompt_engineering.ipynb
