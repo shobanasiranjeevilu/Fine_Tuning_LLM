@@ -31,6 +31,13 @@
 
 ![image](https://github.com/shobanasiranjeevilu/Fine_Tuning_LLM/assets/114626356/fd295d12-e2c8-4b8c-a872-4b319a1d9959)
 
+# Evaluation
+
+![image](https://github.com/shobanasiranjeevilu/Fine_Tuning_LLM/assets/114626356/d988aabd-222e-419e-a889-81aaebd87cc9)
+
+
+
+
 
 
 
